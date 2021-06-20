@@ -8,12 +8,12 @@ Uses the wandbox API to run and compile code from the chatbox.
 
 ### Available Languages
 
-lua: `lua-5.4.0`
+lua (`lua-5.4.0`)
 
-ruby: `ruby-3.0.0`
+ruby (`ruby-3.0.0`)
 
-js: `nodejs-14.0.0`
+js (`nodejs-14.0.0`)
 
-dlang: `dmd-2.076.0`
+dlang (`dmd-2.076.0`)
 
-golang: `go-1.14.2`
+golang (`go-1.14.2`)
