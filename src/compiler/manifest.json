@@ -1,0 +1,7 @@
+{
+  "name": "Compiler",
+  "version": "0.0.1",
+  "description": "Compile code and run it",
+  "author": "Andrew J.",
+  "license": "MIT"
+}
